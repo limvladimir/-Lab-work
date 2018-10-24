@@ -16,6 +16,12 @@ namespace Lab_WorkUI
         {
             InitializeComponent();
             //comment test
+            // a
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
