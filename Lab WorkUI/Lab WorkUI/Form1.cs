@@ -15,6 +15,7 @@ namespace Lab_WorkUI
         public Form1()
         {
             InitializeComponent();
+            //comment test
         }
     }
 }
